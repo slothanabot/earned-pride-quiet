@@ -15,7 +15,7 @@ import sys
 
 LINE = (
     "Two winters she practiced one song on a borrowed violin; "
-    "tonight the village square fell silent just to hear her play it through."
+    "tonight the village square fell silent just to hear her play it to the end."
 )
 
 
